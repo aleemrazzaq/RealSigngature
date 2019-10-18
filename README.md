@@ -3,11 +3,11 @@ Its wrapper for OpenCV, what it does, it get the real Signature from any image. 
 
 How it Works
 
- - Get the Open cv framework with 3.4.7: https://sourceforge.net/projects/opencvlibrary/files/3.4.7/opencv-3.4.7-ios-framework.zip/download
+ - Get the Open cv framework with 3.4.7: https://sourceforge.net/projects/opencvlibrary/files/3.4.7/opencv-3.4.7-ios-framework.zip/download and Add into your Project.
 
  - Add the Wrapped class(OpenCVWrapper) into your project
 
- - #include "OpenCVWrapper.h" into your class
+ - #include "OpenCVWrapper.h" into your class 
 
  - use the following lines of code.
  UIImage * originalImage = [OpenCVWrapper convertBlackTransparent:originalImage];
