@@ -10,6 +10,7 @@ How it Works
  - #include "OpenCVWrapper.h" into your class 
 
  - use the following lines of code.
+
  UIImage * originalImage = [OpenCVWrapper convertBlackTransparent:originalImage];
  [self.imageView setImage:originalImage];
 
