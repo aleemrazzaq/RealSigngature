@@ -15,5 +15,7 @@ How it Works
  [self.imageView setImage:originalImage];
 
 
-Download the working Demo:
+
+
+## Download the working Demo:
 https://drive.google.com/uc?id=1584Qm8BwNwu7pCLkLHfXNwSGSN-mtPv0&export=download
